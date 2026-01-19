@@ -8,11 +8,11 @@ const projects = [
   {
     title: "Smart Quiz Competition",
     description: "This is an interactive coding quiz built using HTML, CSS, and JavaScript. I built this project to practice study concepts and improve problem solving skills.",
-    liveUrl: "https://pn-quiz-start.vercel.app/",
+    liveUrl: "https://typing-speedtest-sepia.vercel.app/",
     codeUrl: "#",
     image: quizCover,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
-  },
+  }
   
 
  const projects = [
