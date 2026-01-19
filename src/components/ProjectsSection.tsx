@@ -3,6 +3,7 @@ import { Laptop, ExternalLink, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 import quizCover from "@/assets/quiz-cover.png";
+import typingCover from "@/assets/TYPING.jpg";
 
 const projects = [
   {
@@ -15,13 +16,13 @@ const projects = [
   },
   
 
- const projects = [
+
   {
     title: "Typing Speed Test",
     description: "Helps improve keyboard skills and finger placement.",
     liveUrl: "https://typing-speed-lovat.vercel.app/",
     codeUrl: "#",
-    image: TYPING,
+    image: typingCover,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },   
 
