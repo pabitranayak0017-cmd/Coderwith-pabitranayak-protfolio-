@@ -13,14 +13,15 @@ const projects = [
     image: quizCover,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },
-  import quizCover from "@/assets/TYPING.jpg";
+  import TYPING from "@/assets/TYPING.jpg";
+
  const projects = [
   {
     title: "Typing Speed Test",
     description: "Helps improve keyboard skills and finger placement",
     liveUrl: "https://typing-speed-lovat.vercel.app/",
     codeUrl: "#",
-    image: TYPING SPEED,
+    image: TYPING,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },   
 
