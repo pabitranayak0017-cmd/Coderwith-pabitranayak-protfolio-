@@ -12,7 +12,7 @@ const projects = [
     codeUrl: "#",
     image: quizCover,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
-  }
+  },
   
 
  const projects = [
